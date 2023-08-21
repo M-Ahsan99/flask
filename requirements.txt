@@ -1,0 +1,7 @@
+urllib3==1.26.15
+uvicorn==0.23.1
+webencodings==0.5.1
+Werkzeug==2.2.3
+fastapi==0.100.0
+Flask==2.2.3
+Flask-RESTful==0.3.10
